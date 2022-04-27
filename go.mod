@@ -10,7 +10,7 @@ require (
 	github.com/buildkite/interpolate v0.0.0-20200526001904-07f35b4ae251
 	github.com/buildkite/shellwords v0.0.0-20180315084142-c3f497d1e000
 	github.com/buildkite/yaml v0.0.0-20210326113714-4a3f40911396
-	github.com/creack/pty v1.1.12
+	github.com/creack/pty v1.1.18
 	github.com/denisbrodbeck/machineid v1.0.0
 	github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135
 	github.com/mattn/go-zglob v0.0.0-20180803001819-2ea3427bfa53
@@ -24,7 +24,7 @@ require (
 	github.com/rjeczalik/interfaces v0.1.1
 	github.com/sergi/go-diff v1.0.0 // indirect
 	github.com/stretchr/testify v1.7.1
-	github.com/urfave/cli v1.22.4
+	github.com/urfave/cli v1.22.7
 	golang.org/x/crypto v0.0.0-20200302210943-78000ba7a073
 	golang.org/x/oauth2 v0.0.0-20181003184128-c57b0facaced
 	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
