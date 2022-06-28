@@ -11,7 +11,7 @@ require (
 	github.com/buildkite/shellwords v0.0.0-20180315084142-c3f497d1e000
 	github.com/buildkite/yaml v0.0.0-20210326113714-4a3f40911396
 	github.com/creack/pty v1.1.12
-	github.com/denisbrodbeck/machineid v1.0.0
+	github.com/denisbrodbeck/machineid v1.0.1
 	github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135
 	github.com/mattn/go-zglob v0.0.0-20180803001819-2ea3427bfa53
 	github.com/mitchellh/go-homedir v1.1.0
